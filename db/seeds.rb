@@ -27,3 +27,5 @@ movies.each do |movie|
   )
 end
 puts 'movies created'
+
+List.create(name:"classics")
